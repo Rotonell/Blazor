@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TODOlist", "TODOlist\TODOli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies", "Movies\Movies.csproj", "{D2D95A8E-8BFC-422F-824D-D3FF3BF8B975}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academy", "Academy\Academy.csproj", "{3537D382-503E-4D6F-BF97-0EECDA6677E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D2D95A8E-8BFC-422F-824D-D3FF3BF8B975}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2D95A8E-8BFC-422F-824D-D3FF3BF8B975}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2D95A8E-8BFC-422F-824D-D3FF3BF8B975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3537D382-503E-4D6F-BF97-0EECDA6677E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3537D382-503E-4D6F-BF97-0EECDA6677E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3537D382-503E-4D6F-BF97-0EECDA6677E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3537D382-503E-4D6F-BF97-0EECDA6677E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
